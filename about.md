@@ -1,911 +1,803 @@
----
-layout: page
-title: About
-permalink: /about/
-published: true
----
+--- layout: default --- <meta charset="utf-8"> <meta content="width=device-width, initial-scale=1.0" name="viewport"> <title>My Portfolio</title> <meta content="EEE Final year Student. Intern at APSCL " name="descriptison"> <meta content="" name="keywords"> <link rel="icon" href="/assets/img/profile.png" type="image/jpg">  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet"> <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet"> <link href="assets/vendor/venobox/venobox.css" rel="stylesheet"> <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet"> <link href="assets/vendor/aos/aos.css" rel="stylesheet">  <link href="assets/css/style.css" rel="stylesheet">    
 
-Hello! I'm Jay and this is my English tech [blog](/). The most popular posts here are:
-* [The Illustrated Transformer](/illustrated-transformer/) (Referenced in AI/ML Courses at [MIT](https://www.youtube.com/watch?v=53YvP6gdD7U&feature=youtu.be&t=334), and [Cornell](http://www.cs.cornell.edu/courses/cs5740/2019sp/schedule.html))
-* [The Illustrated BERT, ELMo, and co.](/illustrated-bert/) (Referenced in AI/ML Courses at [Stanford](http://web.stanford.edu/class/cs224n/) and [CMU](http://phontron.com/class/nn4nlp2019/schedule/contextual-representation.html))
-* [Visual and Interactive Guide to the Basics of Neural Networks](/visual-interactive-guide-basics-neural-networks/) (which was called [awesome](https://simplystatistics.org/2016/12/20/noncomprehensive-list-of-awesome/), [must share](https://www.facebook.com/kaggle/photos/a.10150387148668464.377856.135534208463/10154865388138464/?type=3&hc_ref=ARQS_GO4ZGUA8CF_Fus-jB2FVUxlkMU8UgleekyycPWbRjFoD4foj65C9vGn0s8Do6Y), [and](https://www.facebook.com/photo.php?fbid=10154054954207143&set=a.471131017142.254979.722677142&type=3&theater) [other](https://www.reddit.com/r/programming/comments/5igdix/a_visual_and_interactive_guide_to_the_basics_of/) things)
+<header id="header">
 
+<div class="d-flex flex-column">
 
-As this is my technical blog, it's probably fitting to point out some aspects of technology that fascinate me:
+<div class="profile">![](assets/img/png.png)
 
- * I visualize and explain machine learning concepts to thousands of students in Udacity programs like the [Machine Learning Nanodegree](https://udacity.com/course/machine-learning-engineer-nanodegree--nd009), [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), and [Natural Language Processing Nanodegree](https://sa.udacity.com/course/natural-language-processing-nanodegree--nd892).
- * I help fund and accelerate the growth of cool tech companies with the [STV](https://stv.vc/) team.
- * I once founded a tech [startup](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=128935145) where I built an extensive web app as well as apps for iOS and Android
- * Whenever I find time, I try to make tiny contributions to open source projects I love and use -- mostly documentation. For example, my [post visualizing some Pandas functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/) found its way to the [official documentation](https://pandas.pydata.org/pandas-docs/stable/reshaping.html).
- * I love sci-fi. I have translated the Isaac Asimov short story The Last Question to [Arabic](http://www.blogjihad.com/?p=563). I've also written a terrible sci-fi novella that I won't allow anyone to ever suffer through. Makes you appreciate how tough writing a good story is..
- * Pop culture things I love include [Dune](https://en.wikipedia.org/wiki/Dune_(novel)), [Berserk](https://en.wikipedia.org/wiki/Berserk_(manga)), [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII) and its music, [Starcraft](https://en.wikipedia.org/wiki/StarCraft), and [Opeth](https://www.youtube.com/channel/UCmQSJTFZaXN85gYk6W3XbdQ).
+# [Md. Shahin Alom](index.html)
 
-<div dir="rtl" markdown="1">
-## بالعربية
-بالاضافة إلى مدونتي التقنية هذه، لدي مدونات سابقة متناثرة في الانترنت. احدثها هي [مدونتي في كاراميلا](https://caramel.la/jalammar). بعض كتاباتي السابقة هي:
+<div class="social-links mt-3 text-center">[](https://www.linkedin.com/in/ashahin200/)[](https://github.com/ashahin200/)[](https://www.facebook.com/ashahin200)[](https://www.youtube.com/channel/UCwCItw_xlM9aN_O6U8S-DtQ)[](https://publons.com/researcher/AAX-4744-2020/)
 
-* [هل تجيد عجن البيانات؟](https://caramel.la/home/B1AeolZ2g/hl-tjyd-ajn-albyanat)
-* [ترجمتي لقصة The Last Question by Isaac Asimov](https://caramel.la/jalammar/5dju7ji7/alsual-alakhyr)
+<div class="social-links mt-3 text-center">
+
+#### **Contributor**  
+
+###### <span>Leran machine Learning in Bangla</span>
+
+[](https://www.youtube.com/channel/UCKtanq2MXoFKsMxQxL7huUQ)</div>
+
+<div class="social-links mt-3 text-center">[](https://www.facebook.com/jahid2ml)</div>
 
 </div>
 
----
-layout: default
----
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>My Portfolio</title>
-  <meta content="EEE Final year Student. Intern at APSCL " name="descriptison">
-  <meta content="" name="keywords">
-  <link rel="icon" href="/assets/img/profile.png" type="image/jpg">
-  
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: iPortfolio - v1.2.1
-  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-
-<body>
-
-  <!-- ======= Mobile nav toggle button ======= -->
-  <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
-
-  <!-- ======= Header ======= -->
-  <header id="header">
-    <div class="d-flex flex-column">
-
-      <div class="profile">
-        <img src="assets/img/png.png" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Md. Shahin Alom</a></h1>
-        <div class="social-links mt-3 text-center">
-          <a href="https://www.linkedin.com/in/ashahin200/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-          <a href="https://github.com/ashahin200/" class="google-plus" target="_blank"><i class="bx bxl-github"></i></a>
-          <!-- <a href="https://www.instagram.com/satheesh22g/" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a> -->
-          <a href="https://www.facebook.com/ashahin200" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
-          <a href="https://www.youtube.com/channel/UCwCItw_xlM9aN_O6U8S-DtQ" class="youtube" target="_blank"><i class="bx bxl-youtube"></i></a>
-          <a href="https://publons.com/researcher/AAX-4744-2020/" class="publons" target="_blank"><i class="bx 
-            bxl-product-hunt"></i></a>
-          
-          <div class="social-links mt-3 text-center">
-            <h4 class="bg-primary"><B>Contributor</B><br><h6 class="bg-primary py-2"><span >Leran machine Learning in Bangla</span></h6></h4>
-              <a href="https://www.youtube.com/channel/UCKtanq2MXoFKsMxQxL7huUQ" class="youtube" target="_blank"><i class="bx bxl-youtube bx-spin"></i></a>
-          </div>
-          <div class="social-links mt-3 text-center">
-            <a href="https://www.facebook.com/jahid2ml" class="facebook" target="_blank"><i class="bx bxl-facebook-square bx-burst-hover"></i></a>  
-          </div>
-                  
-        </div>
-      </div>
-
-      <nav class="nav-menu">
-        <ul>
-          <li class="active"><a href="#hero"><i class="bx bx-home"></i> <span>Home</span></a></li>
-          <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
-          <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Gallery</a></li>
-          <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
-
-        </ul>
-      </nav><!-- .nav-menu -->
-      <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
-
-    </div>
-  </header><!-- End Header -->
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    <div class="hero-container" data-aos="fade-in">
-      <h1>Shahin Alom</h1>
-      <p>Hi there I'm <span class="typed" data-typed-items="Deep Learning Researcher, Robotics and Embedded System Designer, Programmer "></span></p>
-    </div>
-  </section><!-- End Hero -->
-
-  <main id="main">
-
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
-
-        <div class="section-title" >
-          <h2>About</h2>
-          <style>
-            div {
-              text-align: justify;
-              text-justify: inter-word;
-            }
-            </style>
-            <p>Hello !! My name is Shahin ALom. I'm a passionate Deep Learning and Machine Learning practitioner and I am always eager to learn new technologies. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write articles on Deep Learning for our facebook page(Machine Learining Talks & Tips) in my native language Bengali. I idolize great personalities like Geoffrey Hinton, Ian J. Goodfellow and I really fantacize to meet them one day 😊.</p>
-            <br><p>Currently I pursuing my undergraduate degree from Hajee Mohammad Danesh Science & Technology University, Dinajpur. I aspire to work on meaningful works that have some direct impact on people's lives. </p>
-          </div>
-
-        <div class="row">
-          <div class="col-lg-4" data-aos="fade-right">
-            <!-- <style>
-              img {
-                border: 1px solid #ddd;
-                border-radius: 40%;
-                padding: 5px;
-                width: 500;
-              }
-            </style> -->
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="" style="border-radius: 45%">
-          </div>
-          <div class="col-lg-8 pt-0 pt-lg-0 content" data-aos="fade-left">
-            <br>
-            <h3>Deep Learning, IoT &amp; Robitics Researcher</h3>
-            <p class="font-italic">
-              Electrical and Electronic Engineering Student || Machine Learning Engineer || Python programmer || Artificial Intelligence Enthusiast || Data Science Aspirant || Robotics & Embedded System Developer
-            </p>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>DoB:</strong> 19 June 1998</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Github Username:</strong> ashahin200</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +8801704801703</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Enayetpur, Sirajganj, Bangladesh</li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 22</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Qualification:</strong> B.Sc Engineering </li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> ashahin200@gmail.com</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Department:</strong> EEE</li>
-                </ul>
-              </div>
-            </div>
-           
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Section -->
-
-    <!-- ======= Facts Section ======= -->
-    <section id="facts" class="facts">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Facts</h2>
-          <p>In Numbers</p>
-        </div>
-
-        <div class="row no-gutters">
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
-            <div class="count-box">
-              <i class="icofont-papers"></i>
-              <span data-toggle="counter-up">11</span>
-              
-              <p><strong>Publications IEEE Journal & conference</strong></p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="count-box">
-              <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">14</span>
-              <p><strong>On Going Projects on Embedded System Design & Deep Learning</strong> </p>
-            </div>
-          </div>
-         
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="count-box">
-              <i class="icofont-award"></i>
-              <span data-toggle="counter-up">10</span>
-              <p><strong>Achievement on Robotics Contest, Project Showcaing, Poster Presentation</strong> </p>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="count-box">
-              <i class="icofont-learn"></i>
-              <span data-toggle="counter-up">6</span>
-              <p><strong>Languages Known and practised</strong> </p>
-            </div>
-          </div>
-      
-
-        </div>
-
-      </div>
-    </section><!-- End Facts Section -->
-
-    <!-- ======= Skills Section ======= -->
-    <section id="skills" class="skills section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Skills</h2>
-          <p></p>
-        </div>
-
-        <div class="row skills-content">
-
-          <div class="col-lg-6" data-aos="fade-up">
-
-       
-
-            <div class="progress">
-              <span class="skill">Python <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">JAVA <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div class="progress">
-              <span class="skill">JavaScript <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div class="progress">
-              <span class="skill">C <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div class="progress">
-              <span class="skill">C++ <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="progress">
-              <span class="skill">Arduino & Assembly<i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">SQL <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill"> HTML<i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">CSS <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div class="progress">
-              <span class="skill">Photoshop <i class="val"></i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Skills Section -->
-
-    <!-- ======= Resume Section ======= -->
-    <section id="resume" class="resume">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Resume</h2>
-
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Summary</h3>
-            <div class="resume-item pb-0">
-              <h4>Shahin Alom</h4>
-              <p><em>I'm currently pursuing final year undergraduate student in EEE department at HSTU. I am always curious to learn new technology and skills .</em></p>
-              <p>  </p>
-              <ul>
-                <li>Enayetpur, Sirajganj, Bangladesh</li>
-                <li>+8801704801703</li>
-                <li>ashahin200@gmail.com</li>
-              </ul>
-              <!-- <br> -->
-            </div>
-            
-            <h3 class="resume-title">Area of Interest</h3>
-           
-            <div class="resume-item">
-              <h6>Machine Learning</h6>
-            </div>
-            <div class="resume-item">
-              <h6>Deep Learning</h6>
-            </div>
-            <div class="resume-item">
-              <h6>Computer Vision</h6>
-            </div>
-            <div class="resume-item">
-              <h6>Robotics</h6>
-            </div>
-            <div class="resume-item">
-              <h6>Internet of Things</h6>
-            </div>
-            <div class="resume-item">
-              <h6>Data Science</h6>
-              <!-- <br> -->
-            </div>
-          </div>
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="resume-title">Education</h3>
-           
-            <div class="resume-item">
-              <h4>B.Sc(Engineering) in EEE</h4>
-              <h5>2016 - Running</h5>
-              <p><em><b>Hajee Mohammad Danesh Science & Technology University(HSTU), Dinajpur</b></em></p>
-              <p>Expected CGPA 3.55 (out of 4).</p>
-            </div>
-            <div class="resume-item">
-              <h4>Higher Secondary Certificate (H. S.C)</h4>
-              <h5>2013 - 2015</h5>
-              <p><em><b>Notre Dame College, Dhaka</b></em></p>
-              <p>with GPA 5(out of 5).</p>
-            </div>
-            <div class="resume-item">
-              <h4>Secondary School Certificate (S.S.C)</h4>
-              <h5>2011 - 2013</h5>
-              <p><em><b>Sthal Pakrashi Institution School and College, Sirajganj</b></em></p>
-              <p>with GPA 5(out of 5).</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Resume Section -->
-
-    <!-- ======= Resume Section ======= -->
-   <section id="resume" class="resume">
-    <div class="container">
-
-      <div class="section-title">
-        <h2>Research Publication</h2>
-
-      </div>
-
-      <div class="row">
-        <div class="col-lg-12" data-aos="fade-up">
-          <h5><p><b>Some of my Research work : </b></p></h5>
-          <br>
-          <div class="resume-item pb-0">
-            <h4>Cricket Sentiment Analysis from Bangla Text Using Recurrent Neural Network with Long Short Term Memory Model</h4>
-            <p><em><b>Abstract</b>:
-              Nowadays, people used to express their feelings, thoughts, suggestions and opinions on different social platform and video sharing media. Many discussions are made on Twitter, Facebook and many respective forums on sports especially cricket and football. The opinion may express criticism in different manner,.</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://doi.org/10.1109/ICBSLP47725.2019.201500">Read more...</a></li>
-            </ul>
-            
-          </div>
-          <div class="resume-item pb-0">
-            <h4>Digit Recognition in Sign Language Based on Convolutional Neural Network and Support Vector Machine</h4>
-            <p><em><b>Abstract</b>:
-              Hearing and speech impaired individuals communicate using sign language among themselves and to the normal people. But it is challenging for non-sign language speaker to understand the sign language. Thus, sign language speaker or signer often finds difficulties in expressing their feelings. </em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://doi.org/10.1109/STI47673.2019.9067999">Read more...</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Bangla Compound Character Recognition by Combining Deep Convolutional Neural Network with Bidirectional Long Short-Term Memory</h4>
-            <p><em><b>Abstract</b>:
-              Recognition of Bangla handwritten compound characters has a significant role in Bangla language in order to develop a complete Bangla OCR. It is a challenging task owing to its </em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://doi.org/10.1109/EICT48899.2019.9068817">Read more...</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Deep Convolutional Neural Network for Microscopic Bacteria Image Classification</h4>
-            <p><em><b>Abstract</b>:
-              Bacterial classification is crucial in medical science in order to diagnosis specific causative agent of numerous fatal diseases. Moreover, treatment of bacterial infection has also been possible through understanding of its nature and classification. Besides that, </em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href=https://doi.org/10.1109/ICAEE48663.2019.8975588">Read more...</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Deep Convolutional Neural Network Exploiting Transfer Learning for Country Recognition by Classifying Passport Cover</h4>
-            <p><em><b>Abstract</b>:
-              Nowadays, Citizen of one country is traveling to another country to settle their various needs through widespread modern transportation system. However, Passport </em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://doi.org/10.1109/ICAEE48663.2019.8975666">Read more...</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Performance Analysis of Machine Learning Techniques for Microscopic Bacteria Image Classification</h4>
-            <p><em><b>Abstract</b>:
-              Microscopic bacterial image classification is of great significance in medical science in order to diagnosis numerous fatal diseases caused by bacteria.</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://doi.org/10.1109/ICCCNT45670.2019.8944597">Read more...</a></li>
-            </ul>
-            
-          </div>
-          <div class="resume-item pb-0">
-            <h4>Rice Disease Identification and Classification by Integrating Support Vector Machine With Deep Convolutional Neural Network</h4>
-            <p><em><b>Abstract</b>:
-              Over the world, rice is one of the most extensively consuming staple foods. But due to various diseases of rice, farmers can't yield rice according to their expectation..</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://doi.org/10.1109/ICASERT.2019.8934568">Read more...</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Wireless Home Automation System Using IoT and PaaS</h4>
-            <p><em>	<b>Abstract</b>:
-              Home automation based on Internet of Things (IoT) is getting huge attention of mass people in recent years. Smart home eases and secures the management of the home appliances.
-              </em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://doi.org/10.1109/ICASERT.2019.8934676">Read more...</a></li>
-            </ul>
-            
-          </div>
-          
-
-        </div>
-
-       
-      </div>
-
-    </div>
-  </section><!-- End Resume Section -->
-
-   <!-- ======= Resume Section ======= -->
-  <section id="resume" class="resume">
-    <div class="container">
-
-      <div class="section-title">
-        <h2>Projects</h2>
-        <h5><p><b> Some of my Projects : </b></p></h5>
-
-      </div>
-
-      <div class="row">
-        <div class="col-lg-12" data-aos="fade-up">
-          
-          <!-- <div class="resume-item pb-0">
-            <h4>Item Catalog</h4>
-            <p><em>The Item Catalog project consists of developing an application that provides a list of items within a variety of categories, as well as provide a user registration and authentication system. This project uses persistent data storage to create a RESTful web application that allows users to perform Create, Read, Update, and Delete operations.</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://github.com/satheesh22g/Item-Catalog">Project Link</a></li>
-            </ul>
-            
-          </div> -->
-          <div class="resume-item pb-0">
-            <h4>Deploy-Image-Classificion-app-using-Flask</h4>
-            <p><em>This is a deep learning project. I used Convolutional Neural Networks to classify MNIST handwritten data. For more convenient propose of test data, used flask microweb framework to deploy it in a server and then you can access and test it remotely from any desktop browser. You can also test it from your desktop localhost..</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://github.com/ashahin200/Deploy-Image-Classificion-app-using-Flask">Project Link</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Covid19 prediction from X-ray image</h4>
-            <p><em>Covid_19 X_ray image prediction using Convolution Neural network. This is a demo project..</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://github.com/ashahin200/Covid_19">Project Link</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Real Time Face Mask Detection using Deep Learning and Computer Vision</h4>
-            <p><em>Real Time Face Recognition using Deep Learning and Opencv.</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href=https://github.com/ashahin200/Image_augmentation">Project Link</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Emotion Recognition with Keras</h4>
-            <p><em>Emotion Recognition with Keras.</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://github.com/ashahin200/Emotion-Recognition-with-Keras">Project Link</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Principal_Component_Analysis</h4>
-            <p><em>Reduce the dimension of a dateset by extracting only high variance data structure.</em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://github.com/ashahin200/Principal_Component_Analysis">Project Link</a></li>
-            </ul>
-            
-          </div>
-
-          <div class="resume-item pb-0">
-            <h4>Robotics & Embedded Sysytem Design</h4>
-            <p><em><li>	Wireless Home Automation System Using Arduino and Ethernet Shield.</li><li> Semi-autonomous quad-copter Drone</li><li> Autonomous line and wall follower robot</li><li> Automatic Alcohol Detecting Device with Engine
-              Locking System
-              </li></em></p>
-       
-            <ul>
-              
-              <li><a target="_blank" href="https://www.youtube.com/channel/UCwCItw_xlM9aN_O6U8S-DtQ">Project Link</a></li>
-            </ul>
-            
-          </div>
-          
-
-        </div>
-
-       
-      </div>
-
-    </div>
-  </section><!-- End Resume Section -->
-
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Some of My Clicks</p>
-        </div>
-
-        <div class="row" data-aos="fade-up">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">Landscape</li>
-              <li data-filter=".filter-card">Portrait</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-hGb6dgwoU/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-n5-K6hrZM/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-gfRNVAJUL/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-hIliUgi_m/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-j0xJBB4LC/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-9HmL1h5bw/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-goznxAjTp/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-eICI2A-MY/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-hhi2Zg34Q/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-10.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-10.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-2Y_zOBqOz/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-11.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-11.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-3mt2VhLLj/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-12.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-12.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-qsfcMBbId/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-13.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-13.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-1-sINh_J1/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-14.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-14.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-1-sINh_J1/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-15.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-15.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-1b7RxhgXf/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-16.jpg" class="img-fluid" alt="">
-              
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-16.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-e1IvngT6A/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-17.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-17.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-eLVNmASXm/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-18.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-18.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.instagram.com/p/B-9rauXhVJd/?utm_source=ig_web_copy_link" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Section -->
-
-    <!-- ======= Services Section ======= -->
-   <!-- End Services Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    
-    <!-- End Testimonials Section -->
-
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Contact</h2>
-        </div>
-
-        <div class="row" data-aos="fade-in">
-
-          <div class="col-lg-12 d-flex align-items-stretch">
-            <div class="info">
-              <div class="address">
-                <i class="icofont-google-map"></i>
-                <h4>Location:</h4>
-                <p>Enayetpur, Sirajganj, Bangladesh</p>
-              </div>
-
-              <div class="email">
-                <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
-                <a href="mailto:ashahin200@gmail.com?Subject=Hello" target="_blank">
-                <p>ashahin200@gmail.com</p>
-                </a>
-              </div>
-
-              <div class="phone">
-                <i class="icofont-phone"></i>
-                <h4>Call:</h4>
-                <a href="tel:+8801704801703"> <p>+8801704801703</p></a>
-              </div>
-
-              <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d407.2162111506909!2d76.85018606073352!3d14.699865153440456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb7350ac0a887a5%3A0x242b308999f655af!2zMTTCsDQxJzU4LjciTiA3NsKwNTEnMDAuNiJF!5e0!3m2!1sen!2sin!4v1587810017242!5m2!1sen!2sin" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe> -->
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116339.48008043526!2d88.76292839916742!3d24.325278618258654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fde0afec9cba7d%3A0x31958b82823e70b!2zRW5heWV0cHVyLCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprY!5e0!3m2!1sbn!2sfr!4v1598898639471!5m2!1sbn!2sfr" width="100%" height="400px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-            </div>
-
-          </div>
-
-    
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
-    <div class="container" style=" margin: auto;
- 
+</div>
+
+<nav class="nav-menu">
+
+*   [<span>Home</span>](#hero)
+*   [<span>About</span>](#about)
+*   [<span>Resume</span>](#resume)
+*   [Gallery](#portfolio)
+*   [Contact](#contact)
+
+</nav>
+
+</div>
+
+</header>
+
+<section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+
+<div class="hero-container" data-aos="fade-in">
+
+# Shahin Alom
+
+Hi there I'm<span class="typed" data-typed-items="Deep Learning Researcher, Robotics and Embedded System Designer, Programmer "></span>
+
+</div>
+
+</section>
+
+<main id="main">
+
+<section id="about" class="about">
+
+<div class="container">
+
+<div class="section-title">
+
+## About
+
+<style>div { text-align: justify; text-justify: inter-word; }</style>
+
+Hello !! My name is Shahin ALom. I'm a passionate Deep Learning and Machine Learning practitioner and I am always eager to learn new technologies. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write articles on Deep Learning for our facebook page(Machine Learining Talks & Tips) in my native language Bengali. I idolize great personalities like Geoffrey Hinton, Ian J. Goodfellow and I really fantacize to meet them one day 😊.
+
+Currently I pursuing my undergraduate degree from Hajee Mohammad Danesh Science & Technology University, Dinajpur. I aspire to work on meaningful works that have some direct impact on people's lives.
+
+</div>
+
+<div class="row">
+
+<div class="col-lg-4" data-aos="fade-right">![](assets/img/profile-img.jpg)</div>
+
+<div class="col-lg-8 pt-0 pt-lg-0 content" data-aos="fade-left">  
+
+### Deep Learning, IoT & Robitics Researcher
+
+Electrical and Electronic Engineering Student || Machine Learning Engineer || Python programmer || Artificial Intelligence Enthusiast || Data Science Aspirant || Robotics & Embedded System Developer
+
+<div class="row">
+
+<div class="col-lg-6">
+
+*   **DoB:** 19 June 1998
+*   **Github Username:** ashahin200
+*   **Phone:** +8801704801703
+*   **City:** Enayetpur, Sirajganj, Bangladesh
+
+</div>
+
+<div class="col-lg-6">
+
+*   **Age:** 22
+*   **Qualification:** B.Sc Engineering
+*   **Email:** ashahin200@gmail.com
+*   **Department:** EEE
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="facts" class="facts">
+
+<div class="container">
+
+<div class="section-title">
+
+## Facts
+
+In Numbers
+
+</div>
+
+<div class="row no-gutters">
+
+<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+
+<div class="count-box"><span data-toggle="counter-up">11</span>
+
+**Publications IEEE Journal & conference**
+
+</div>
+
+</div>
+
+<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+
+<div class="count-box"><span data-toggle="counter-up">14</span>
+
+**On Going Projects on Embedded System Design & Deep Learning**
+
+</div>
+
+</div>
+
+<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+
+<div class="count-box"><span data-toggle="counter-up">10</span>
+
+**Achievement on Robotics Contest, Project Showcaing, Poster Presentation**
+
+</div>
+
+</div>
+
+<div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+
+<div class="count-box"><span data-toggle="counter-up">6</span>
+
+**Languages Known and practised**
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="skills" class="skills section-bg">
+
+<div class="container">
+
+<div class="section-title">
+
+## Skills
+
+</div>
+
+<div class="row skills-content">
+
+<div class="col-lg-6" data-aos="fade-up">
+
+<div class="progress"><span class="skill">Python</span></div>
+
+<div class="progress"><span class="skill">JAVA</span></div>
+
+<div class="progress"><span class="skill">JavaScript</span></div>
+
+<div class="progress"><span class="skill">C</span></div>
+
+<div class="progress"><span class="skill">C++</span></div>
+
+</div>
+
+<div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+<div class="progress"><span class="skill">Arduino & Assembly</span></div>
+
+<div class="progress"><span class="skill">SQL</span></div>
+
+<div class="progress"><span class="skill">HTML</span></div>
+
+<div class="progress"><span class="skill">CSS</span></div>
+
+<div class="progress"><span class="skill">Photoshop</span></div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="resume" class="resume">
+
+<div class="container">
+
+<div class="section-title">
+
+## Resume
+
+</div>
+
+<div class="row">
+
+<div class="col-lg-6" data-aos="fade-up">
+
+### Summary
+
+<div class="resume-item pb-0">
+
+#### Shahin Alom
+
+_I'm currently pursuing final year undergraduate student in EEE department at HSTU. I am always curious to learn new technology and skills ._
+
+*   Enayetpur, Sirajganj, Bangladesh
+*   +8801704801703
+*   ashahin200@gmail.com
+
+</div>
+
+### Area of Interest
+
+<div class="resume-item">
+
+###### Machine Learning
+
+</div>
+
+<div class="resume-item">
+
+###### Deep Learning
+
+</div>
+
+<div class="resume-item">
+
+###### Computer Vision
+
+</div>
+
+<div class="resume-item">
+
+###### Robotics
+
+</div>
+
+<div class="resume-item">
+
+###### Internet of Things
+
+</div>
+
+<div class="resume-item">
+
+###### Data Science
+
+</div>
+
+</div>
+
+<div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+### Education
+
+<div class="resume-item">
+
+#### B.Sc(Engineering) in EEE
+
+##### 2016 - Running
+
+_**Hajee Mohammad Danesh Science & Technology University(HSTU), Dinajpur**_
+
+Expected CGPA 3.55 (out of 4).
+
+</div>
+
+<div class="resume-item">
+
+#### Higher Secondary Certificate (H. S.C)
+
+##### 2013 - 2015
+
+_**Notre Dame College, Dhaka**_
+
+with GPA 5(out of 5).
+
+</div>
+
+<div class="resume-item">
+
+#### Secondary School Certificate (S.S.C)
+
+##### 2011 - 2013
+
+_**Sthal Pakrashi Institution School and College, Sirajganj**_
+
+with GPA 5(out of 5).
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="resume" class="resume">
+
+<div class="container">
+
+<div class="section-title">
+
+## Research Publication
+
+</div>
+
+<div class="row">
+
+<div class="col-lg-12" data-aos="fade-up">
+
+##### 
+
+**Some of my Research work :**
+
+<div class="resume-item pb-0">
+
+#### Cricket Sentiment Analysis from Bangla Text Using Recurrent Neural Network with Long Short Term Memory Model
+
+_**Abstract**: Nowadays, people used to express their feelings, thoughts, suggestions and opinions on different social platform and video sharing media. Many discussions are made on Twitter, Facebook and many respective forums on sports especially cricket and football. The opinion may express criticism in different manner,._
+
+*   [Read more...](https://doi.org/10.1109/ICBSLP47725.2019.201500)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Digit Recognition in Sign Language Based on Convolutional Neural Network and Support Vector Machine
+
+_**Abstract**: Hearing and speech impaired individuals communicate using sign language among themselves and to the normal people. But it is challenging for non-sign language speaker to understand the sign language. Thus, sign language speaker or signer often finds difficulties in expressing their feelings._
+
+*   [Read more...](https://doi.org/10.1109/STI47673.2019.9067999)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Bangla Compound Character Recognition by Combining Deep Convolutional Neural Network with Bidirectional Long Short-Term Memory
+
+_**Abstract**: Recognition of Bangla handwritten compound characters has a significant role in Bangla language in order to develop a complete Bangla OCR. It is a challenging task owing to its_
+
+*   [Read more...](https://doi.org/10.1109/EICT48899.2019.9068817)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Deep Convolutional Neural Network for Microscopic Bacteria Image Classification
+
+_**Abstract**: Bacterial classification is crucial in medical science in order to diagnosis specific causative agent of numerous fatal diseases. Moreover, treatment of bacterial infection has also been possible through understanding of its nature and classification. Besides that,_
+
+*   [Read more...](https://doi.org/10.1109/ICAEE48663.2019.8975588")
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Deep Convolutional Neural Network Exploiting Transfer Learning for Country Recognition by Classifying Passport Cover
+
+_**Abstract**: Nowadays, Citizen of one country is traveling to another country to settle their various needs through widespread modern transportation system. However, Passport_
+
+*   [Read more...](https://doi.org/10.1109/ICAEE48663.2019.8975666)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Performance Analysis of Machine Learning Techniques for Microscopic Bacteria Image Classification
+
+_**Abstract**: Microscopic bacterial image classification is of great significance in medical science in order to diagnosis numerous fatal diseases caused by bacteria._
+
+*   [Read more...](https://doi.org/10.1109/ICCCNT45670.2019.8944597)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Rice Disease Identification and Classification by Integrating Support Vector Machine With Deep Convolutional Neural Network
+
+_**Abstract**: Over the world, rice is one of the most extensively consuming staple foods. But due to various diseases of rice, farmers can't yield rice according to their expectation.._
+
+*   [Read more...](https://doi.org/10.1109/ICASERT.2019.8934568)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Wireless Home Automation System Using IoT and PaaS
+
+_**Abstract**: Home automation based on Internet of Things (IoT) is getting huge attention of mass people in recent years. Smart home eases and secures the management of the home appliances._
+
+*   [Read more...](https://doi.org/10.1109/ICASERT.2019.8934676)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="resume" class="resume">
+
+<div class="container">
+
+<div class="section-title">
+
+## Projects
+
+##### 
+
+**Some of my Projects :**
+
+</div>
+
+<div class="row">
+
+<div class="col-lg-12" data-aos="fade-up">
+
+<div class="resume-item pb-0">
+
+#### Deploy-Image-Classificion-app-using-Flask
+
+_This is a deep learning project. I used Convolutional Neural Networks to classify MNIST handwritten data. For more convenient propose of test data, used flask microweb framework to deploy it in a server and then you can access and test it remotely from any desktop browser. You can also test it from your desktop localhost.._
+
+*   [Project Link](https://github.com/ashahin200/Deploy-Image-Classificion-app-using-Flask)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Covid19 prediction from X-ray image
+
+_Covid_19 X_ray image prediction using Convolution Neural network. This is a demo project.._
+
+*   [Project Link](https://github.com/ashahin200/Covid_19)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Real Time Face Mask Detection using Deep Learning and Computer Vision
+
+_Real Time Face Recognition using Deep Learning and Opencv._
+
+*   [Project Link](https://github.com/ashahin200/Image_augmentation")
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Emotion Recognition with Keras
+
+_Emotion Recognition with Keras._
+
+*   [Project Link](https://github.com/ashahin200/Emotion-Recognition-with-Keras)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Principal_Component_Analysis
+
+_Reduce the dimension of a dateset by extracting only high variance data structure._
+
+*   [Project Link](https://github.com/ashahin200/Principal_Component_Analysis)
+
+</div>
+
+<div class="resume-item pb-0">
+
+#### Robotics & Embedded Sysytem Design
+
+*   _Wireless Home Automation System Using Arduino and Ethernet Shield._*   _Semi-autonomous quad-copter Drone_*   _Autonomous line and wall follower robot_*   _Automatic Alcohol Detecting Device with Engine Locking System_
+
+*   [Project Link](https://www.youtube.com/channel/UCwCItw_xlM9aN_O6U8S-DtQ)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="portfolio" class="portfolio section-bg">
+
+<div class="container">
+
+<div class="section-title">
+
+## Portfolio
+
+Some of My Clicks
+
+</div>
+
+<div class="row" data-aos="fade-up">
+
+<div class="col-lg-12 d-flex justify-content-center">
+
+*   All
+*   Landscape
+*   Portrait
+
+</div>
+
+</div>
+
+<div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-1.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-1.jpg "App 1")[](https://www.instagram.com/p/B-hGb6dgwoU/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-2.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-2.jpg "Web 3")[](https://www.instagram.com/p/B-n5-K6hrZM/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-3.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-3.jpg "App 2")[](https://www.instagram.com/p/B-gfRNVAJUL/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-4.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-4.jpg "Card 2")[](https://www.instagram.com/p/B-hIliUgi_m/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-5.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-5.jpg "Web 2")[](https://www.instagram.com/p/B-j0xJBB4LC/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-6.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-6.jpg "App 3")[](https://www.instagram.com/p/B-9HmL1h5bw/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-7.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-7.jpg "Card 1")[](https://www.instagram.com/p/B-goznxAjTp/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-8.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-8.jpg "Card 3")[](https://www.instagram.com/p/B-eICI2A-MY/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-9.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-9.jpg "Web 3")[](https://www.instagram.com/p/B-hhi2Zg34Q/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-10.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-10.jpg "App 1")[](https://www.instagram.com/p/B-2Y_zOBqOz/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-11.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-11.jpg "Web 3")[](https://www.instagram.com/p/B-3mt2VhLLj/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-12.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-12.jpg "App 2")[](https://www.instagram.com/p/B-qsfcMBbId/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-13.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-13.jpg "Card 2")[](https://www.instagram.com/p/B-1-sINh_J1/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-14.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-14.jpg "Web 2")[](https://www.instagram.com/p/B-1-sINh_J1/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-15.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-15.jpg "App 3")[](https://www.instagram.com/p/B-1b7RxhgXf/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-16.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-16.jpg "Card 1")[](https://www.instagram.com/p/B-e1IvngT6A/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-17.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-17.jpg "Card 3")[](https://www.instagram.com/p/B-eLVNmASXm/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+<div class="portfolio-wrap">![](assets/img/portfolio/portfolio-18.jpg)
+
+<div class="portfolio-links">[](assets/img/portfolio/portfolio-18.jpg "Web 3")[](https://www.instagram.com/p/B-9rauXhVJd/?utm_source=ig_web_copy_link "More Details")</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact" class="contact">
+
+<div class="container">
+
+<div class="section-title">
+
+## Contact
+
+</div>
+
+<div class="row" data-aos="fade-in">
+
+<div class="col-lg-12 d-flex align-items-stretch">
+
+<div class="info">
+
+<div class="address">
+
+#### Location:
+
+Enayetpur, Sirajganj, Bangladesh
+
+</div>
+
+<div class="email">
+
+#### Email:
+
+[
+
+ashahin200@gmail.com
+
+](mailto:ashahin200@gmail.com?Subject=Hello)</div>
+
+<div class="phone">
+
+#### Call:
+
+[
+
++8801704801703
+
+](tel:+8801704801703)</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116339.48008043526!2d88.76292839916742!3d24.325278618258654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fde0afec9cba7d%3A0x31958b82823e70b!2zRW5heWV0cHVyLCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprY!5e0!3m2!1sbn!2sfr!4v1598898639471!5m2!1sbn!2sfr" width="100%" height="400px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<div class="container" style=" margin: auto;
+
     padding: 10px;background-color: rgb(83, 86, 94);">
-      <div style="margin-left: 30%;color: white;" class="copyright">
-        &copy; Copyright <strong><span>Shahin</span></strong>
-      </div>
-      <div style="margin-left: 30%;color: aquamarine;" class="credits">
-      Designed by <a href="#">BootstrapMade</a>
-      </div>
-    </div>
-  </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-<!-- End  Footer -->
+<div style="margin-left: 30%;color: white;" class="copyright">© Copyright **<span>Shahin</span>**</div>
 
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+<div style="margin-left: 30%;color: aquamarine;" class="credits">Designed by [BootstrapMade](#)</div>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/typed.js/typed.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+</div>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+</main>
 
-</body>
-
-</html>
-
-### Contact me
-
-alammar at gmail
+[](#)
